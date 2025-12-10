@@ -178,6 +178,5 @@ streamlit run app.py
 ## Author
 
 **Gaurav Singh**  
-Advanced Data Science Associate | ZS Associates  | NIT Trichy '24
-
-Specialization: GenAI, RAG, and Large-Scale Data Processing
+- Advanced Data Science Associate | ZS Associates  | NIT Trichy '24
+- Specialization: GenAI, RAG, and Large-Scale Data Processing
