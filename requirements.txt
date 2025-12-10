@@ -1,0 +1,7 @@
+streamlit
+docling
+opensearch-py
+google-genai
+python-dotenv
+pandas
+plotly

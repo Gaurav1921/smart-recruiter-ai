@@ -1,0 +1,19 @@
+# Secrets (NEVER UPLOAD THESE)
+.env
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual Environment (if you used one)
+# venv/
+# .venv/
+
+# OS generated files
+.DS_Store
+
+# Resume Data (Optional: keep repo clean by ignoring PDFs)
+data/
+
+# OpenSearch Data (if mapped locally)
+opensearch-data/
